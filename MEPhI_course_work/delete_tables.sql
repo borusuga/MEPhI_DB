@@ -1,0 +1,10 @@
+drop table IP_addr;
+drop table CategoriesList;
+drop table Category;
+drop table DocumentInfo;
+drop table Informator;
+drop table Seen;
+drop table Document;
+drop table "User";
+drop table Author;
+drop table Client;
